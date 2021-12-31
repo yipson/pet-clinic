@@ -3,3 +3,6 @@ guru\springframework\petclinic\bootstrap\DataLoader.class
 guru\springframework\petclinic\controllers\OwnerController.class
 guru\springframework\petclinic\PetClinicApplication.class
 guru\springframework\petclinic\controllers\VetController.class
+guru\springframework\petclinic\formatters\PetTypeFormatter.class
+guru\springframework\petclinic\controllers\PetController.class
+guru\springframework\petclinic\controllers\VisitController.class

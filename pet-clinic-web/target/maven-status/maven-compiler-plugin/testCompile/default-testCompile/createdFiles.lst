@@ -1,2 +1,3 @@
 guru\springframework\petclinic\controllers\OwnerControllerTest.class
 guru\springframework\petclinic\PetClinicApplicationTests.class
+guru\springframework\petclinic\controllers\PetControllerTest.class
